@@ -1,5 +1,6 @@
 # pixel-splines
+A basic tool to create pixelated curves.
 
-![Capture](https://user-images.githubusercontent.com/20815153/51425727-13f1c680-1c34-11e9-8ac8-4e95ac77c43f.PNG)
+Add your points in the textbox on the right then hit Apply.
 
-Basic tool to create pixelated curves.
+![Capture](https://user-images.githubusercontent.com/20815153/51453570-461a3a00-1d94-11e9-88dc-eb1c8e3289d2.png)
